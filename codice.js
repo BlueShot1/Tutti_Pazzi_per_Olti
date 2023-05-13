@@ -8,7 +8,7 @@ function drawChart() {
     var prezzoIniziale = document.getElementById("initPrice").value;
     var anni = document.getElementById("year").value;
   /*var data = google.visualization.arrayToDataTable([
-    ['Year', 'oltigay', 'Expenses'],
+    ['Year', 'prova', 'Expenses'],
     ['2004',  1000,      400],
     ['2005',  1170,      460],
     ['2006',  660,       1120],
